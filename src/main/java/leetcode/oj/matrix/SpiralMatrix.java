@@ -1,4 +1,4 @@
-package leetcode.oj.game;
+package leetcode.oj.matrix;
 
 import java.util.ArrayList;
 
