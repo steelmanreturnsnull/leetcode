@@ -22,7 +22,7 @@ public class DivideTwoIntegers
 		}
 		
 		long Q = 0;
-		while (i>=0)
+		while (i >= 0)
 		{
 			if (N >= R)
 			{
