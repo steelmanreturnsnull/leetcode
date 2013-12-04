@@ -37,7 +37,7 @@ public class DivideTwoIntegers
 	}
 	// Idea:
 	// Q = 5 represented in binary : 101, calculate each bit
-	// similar to long division
+	// similar to long division binary version
 	// Mistakes:
 	// 1. Consider overflow!
 	
