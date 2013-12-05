@@ -4,6 +4,8 @@ package leetcode.oj.common.model;
  * Definition for an interval.
  *
  */
+
+// OK
 public class Interval 
 {
 	public int start;

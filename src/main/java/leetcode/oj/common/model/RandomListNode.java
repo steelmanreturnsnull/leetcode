@@ -1,5 +1,10 @@
 package leetcode.oj.common.model;
 
+/**
+ * Definition for singly-linked list with a random pointer.
+ * 
+ */
+
 // OK
 public class RandomListNode 
 {
